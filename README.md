@@ -64,10 +64,5 @@
 
 ---
 
-<a href="https://github.com/sajjadrajaee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviatofana&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviatofana&theme=buefy&layout=compact" />
-</a>
-
 [twitter]: (https://twitter.com/sajjadrajaee)](https://twitter.com/sajjadrajaee)
 [linkedin]: www.linkedin.com/in/sajjadrajaee
