@@ -1,5 +1,5 @@
     
-## Hi there 👋 I am Sajjad Rajaee
+## Hi there 👋 I am Sajjad Rajaee, A full stack developer
 
 - 🔭 I’m currently working on some personal projects (SEO and Wordpress Development)
 - 👓 I’m currently looking for new opportunities
@@ -7,6 +7,11 @@
 - 💬 Ask me about web development, 🏃 running, anime!!!
 - ⚡ Fun fact: I love to support others!
 - Get in touch ⏬
+
+Email: sajjadrajaee@gmail.com
+Site: sajjadrajaee.ir
+Tel: +98 9912120138
+Currently, I'm in Tehran, Iran.
 
 ## Languages and Tools:
 
