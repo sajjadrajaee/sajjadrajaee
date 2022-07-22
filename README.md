@@ -9,8 +9,11 @@
 - Get in touch ⏬
 
 Email: sajjadrajaee@gmail.com
+
 Site: sajjadrajaee.ir
+
 Tel: +98 9912120138
+
 Currently, I'm in Tehran, Iran.
 
 ## Languages and Tools:
